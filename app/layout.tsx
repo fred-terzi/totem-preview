@@ -18,6 +18,9 @@ const geistMono = Geist_Mono({
 export const metadata: Metadata = {
   title: "Totem",
   description: "Transform your computer into your private AI",
+  other: {
+    'base:app_id': '6a8c92a96ea1f57fed3340a7',
+  },
 };
 
 export const viewport: Viewport = {
